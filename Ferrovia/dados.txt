@@ -1,0 +1,109 @@
+Vagões na composição 1:
+Identificador: A
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: B
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: C
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: D
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: E
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: F
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: G
+Tipo de Carga: Grão
+Quantidade: 1000
+---------------------------
+Identificador: H
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: I
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: J
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: L
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: M
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Vagões na composição 2:
+Identificador: N
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: O
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: P
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: Q
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: R
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: S
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: T
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: U
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: V
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: W
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: X
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: Y
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: Z
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Identificador: K
+Tipo de Carga: 
+Quantidade: 0
+---------------------------
+Quantidade de desembarques por tipo de commodities:
+Região R1 (Minérios): 0
+Região R2 (Grãos): 0
